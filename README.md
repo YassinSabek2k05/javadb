@@ -62,7 +62,3 @@ java -cp "bin;path/to/junit-4.jar;path/to/hamcrest-core.jar" DBMS.DBApp
 ```
 
 On first run, `Tables/` is created automatically next to the compiled classes to store persisted data.
-
-## Course context
-
-This solution corresponds to Milestone 1 of the CSEN604 Databases II course project, implementing the core storage engine and its indexing and recovery extensions.
